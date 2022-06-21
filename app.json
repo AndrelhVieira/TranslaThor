@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TranslaThor",
+    "slug": "TranslaThor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
